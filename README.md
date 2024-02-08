@@ -3,7 +3,9 @@
 </p>
 
 # MITRE_ATTACK_PowerBI_
-An open-source Power BI app for interacting with the MITRE ATT&CK Framework.
+An open-source Power BI app for interacting with the MITRE ATT&CK Framework. 
+All source data is licensed by the MITRE https://attack.mitre.org/resources/legal-and-branding/terms-of-use/.
+Security Bagel is not affiliated or endorsed by the MITRE Corporation.
 
 # MITRE ATT&CK Framework 
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
