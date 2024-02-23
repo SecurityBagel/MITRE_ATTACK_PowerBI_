@@ -23,6 +23,5 @@ MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and 
   
 # Screenshots
 
-![ATT CK Graph](https://github.com/SecurityBagel/MITRE_ATTACK_PBI/assets/138625733/9108c78f-2875-4469-98f6-a04b7aa827bc)
+![MITRE ATT CK PowerBI](https://github.com/SecurityBagel/MITRE_ATTACK_PowerBI_/assets/138625733/38fc8fb2-bcc0-44ce-bf34-077066d5280e)
 
-![ATT CK Matrix](https://github.com/SecurityBagel/MITRE_ATTACK_PBI/assets/138625733/5791a0b4-7727-4e8d-b6ac-f15192e4d00b)
